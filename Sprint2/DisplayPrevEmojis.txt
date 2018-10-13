@@ -1,0 +1,6 @@
+9 October 2018
+
+-Determine how the data will be read from the database to display the user's previous emojis by collaborating with the back-end team
+	After speaking w/ Perry from the back-end team, we confirmed that the w/ the API that has been set up, all of the data from user input would be sent to the front-end. It would then be
+	on the front-end to siphon through that data and display the desired number of previous emoji entries. Perhaps taking the data through a list and setting a limit for the emojis would be
+	sufficient (for example, the previous ten entries).
