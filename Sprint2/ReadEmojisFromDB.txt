@@ -1,0 +1,2 @@
+Determine how to read data from database for viewing emojis
+	The HTTP get method can be used to request the users emoji data from the database. The library org.json can be used to parse the JSON and get the emojis for each user. The emojis are stored as a numeric value therefore there will have to be a method on our end for linking that numeric value to an image of the emoji. Once there is a connection established to the database, we can test sending an http request and receiving the JSON file in return. This will be something to work on for the next sprint. 
